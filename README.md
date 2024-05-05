@@ -1,6 +1,6 @@
 # 2024A1 資訊安全攻防實務
 ## 本學期計分
-- 期中考(30%): 考試
+- 期中考(30%): [數位鑑識](DFIR.md)
 - 期末考(30%):MITRE D3FEND Framework 研究報告
 - 期中平時(20%):MITRE ATT&CK Framework 研究報告
 - 期末平時(20%):[DVWA測試報告](DVWA.md)
